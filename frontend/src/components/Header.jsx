@@ -29,14 +29,6 @@ const Header = () => {
         <a href="/" class="block py-2 px-3 hover:text-header_hover_color
         transition-colors duration-300  bg-blue-700 rounded-sm md:bg-transparent md:p-0 md:dark:text-blue-500" aria-current="page">Home</a>
       </li>
-      <li>
-        <a href="#" class="block py-2 px-3rounded-sm hover:text-header_hover_color
-        transition-colors duration-300  md:hover:bg-transparent  md:p-0 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">My Story</a>
-      </li>
-      <li>
-        <a href="#" class="block py-2 px-3 rounded-sm hover:text-header_hover_color
-        transition-colors duration-300  md:hover:bg-transparent  md:p-0  dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Reach Me</a>
-      </li>
     </ul>
   </div>
   </div>
