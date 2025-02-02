@@ -20,7 +20,8 @@ const Header = () => {
         </svg>
     </button>
   </div>
-  <div class="bg-header_bg items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+  <div class="bg-header_bg items-center justify-between hidden w-full 
+  p-3 sm:p-1 md:flex md:w-auto md:order-1" id="navbar-sticky">
     <ul class="flex flex-col p-4 md:p-0 mt-4 text-white text-xl font-medium border border-gray-100 rounded-lg 
     md:space-x-12 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 
      dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
