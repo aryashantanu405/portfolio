@@ -9,7 +9,7 @@ const  Home = () => {
   return (
 <div className='mt-10 mb-14 flex justify-between bg-white h-full items-center flex-col lg:flex-row'>
   <div className='p-4 flex flex-col align items-center'>
-    <h1 className='text-8xl md:text-9xl sm:text-5xl'>Full Stack<br/><span className='text-red-500'>Developer</span> </h1>
+    <h1 className='text-8xl md:text-9xl sm:text-5xl'>Full Stack<br/><span className='text-red-500 sm:text-blue-500'>Developer</span> </h1>
     <p className='mt-5 text-xl md:text-3xl 
     sm:text-2xl font-serif lg:text-2xl'>"As a full stack developer, I craft innovative and scalable web applications, seamlessly blending user experience with robust back-end solutions to create impactful digital journeys."</p>
   </div>
